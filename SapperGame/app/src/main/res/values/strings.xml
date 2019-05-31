@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SapperGame</string>
+    <string name="btn1">5x5</string>
+    <string name="btn2">6x6</string>
+    <string name="btn3">7x7</string>
+    <string name="opt1">Choose the size of field</string>
+    <string name="apply">Apply</string>
+    <string name="sub">Submit</string>
+    <string name="numMine">Input a number</string>
+    <string name="opt2">Enter the number of mines</string>
+    <string name="empty">Please, enter the number of mines!</string>
+    <string name="full">Too much!</string>
+    <string name="lost">You have been blown!</string>
+    <string name="win">You won!</string>
+    <string name="restart">Restart</string>
+    <string name="mine">*</string>
+    <string name="needmore">The number of mines must be at least more than number of rows ! </string>
+    <string name="pre"> </string>
+</resources>
